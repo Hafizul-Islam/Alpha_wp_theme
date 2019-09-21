@@ -1,0 +1,119 @@
+/*
+Theme name:
+Theme URI:
+Author:
+Author URI:
+Description:
+Version:
+License:
+Tag:
+TExt Domain:
+*/
+
+h1.heading{
+			font-family: "Arial Black";
+			width:700px;
+			margin-bottom: auto;
+			padding-bottom: 70px;
+			margin-left: 210px;
+			text-align: center !important;
+			border-bottom: 1px solid #ccc;
+
+		}
+h3.tagline{
+	font-family:Arial;
+	margin:auto;
+	font-size:18px;
+	margin-top:50px;
+	margin-bottom:15px;
+	width:700px;
+	text-align: center;
+}
+h2.post-title{
+	margin-bottom: 30px;
+}
+.post{
+	margin-bottom: 50px;
+}
+.post p{
+	font-family: "Helvetica Neue";
+	line-height: 1.7em;
+	font-size: 18px;
+}
+
+.post p img{
+	width: 200px;
+	height: 300px;
+}
+
+.post .row:nth-child(2){
+	padding-bottom:50px;
+	border-bottom: 1px solid #ccc;
+}
+.post:last-child .row:nth-child(2){
+	border-bottom:none;
+}
+ .post-pagination{
+	margin-bottom: 50px;
+}
+.page-header{
+	background-position: center;
+	background-size: cover ;
+	margin-bottom: 30px;
+	padding: 170px 8px;
+}
+
+.page-header h1.heading a{
+	color:#222;
+	text-decoration: nine;
+}
+.footer{
+	padding-bottom:10px;
+	padding-top: 10px;
+	background-color:#222;
+	color:#ccc;
+}
+.tags li{
+	color: #3D9970;
+}
+.header-logo{
+	margin-top: 50px;
+}
+.header-logo img{
+	border-radius: 50px;
+}
+.error-class{
+	margin-top: 241px;
+	margin-bottom: 360px;
+}
+.dashicons{
+	color: #ccc;
+	font-size:100px;
+}
+.authorsection{
+	border: 1px solid #ccc;
+	padding: 5px;
+}
+.authorimage img{
+	border-radius: 50px;
+}
+.authorpage{
+	margin-bottom: 50px;
+}
+.slider_class{
+	width:100%;
+	height:50%;
+}
+.testimonials img{
+	width:120px;
+	height: auto;
+	border-radius: 60px;
+	margin-bottom: 50px;
+}
+.search-highlight{
+	background-color: #ff0;
+	font-weight: bold;
+}
+.div_class{
+	background-color: #ccc;
+}
